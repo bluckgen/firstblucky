@@ -17,6 +17,8 @@ int main(int argc, const char * argv[]) {
     printf("Angle C of a triangle is %d if Angle A %d and Angle B is %d", calculateAngleC(A, B), A, B)
     
     ;
+    
+    printf("Added something");
     return 0;
 }
 
